@@ -1,4 +1,7 @@
 ##awd\_ssh\_passwd_modify
+278884553@qq.com
+
+###[**项目位置**](https://github.com/Tkitn/awd_ssh_passwd_modify)
 
 ###介绍
 awd中总有些服务器有弱口令的ssh账户，或者全场密码统一
